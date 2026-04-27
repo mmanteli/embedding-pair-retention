@@ -1,0 +1,5 @@
+{
+    "data_name": "PaDaS-Lab/webfaq-bitexts",
+    "columns": "('question2', 'answer2')",
+    "prompt": "Given a web search query, retrieve relevant passages that answer the query"
+}

@@ -1,0 +1,5 @@
+{
+    "data_name": "sentence-transformers/parallel-sentences-tatoeba",
+    "columns": "('english', 'non_english')",
+    "prompt": "Retrieve parallel sentences."
+}

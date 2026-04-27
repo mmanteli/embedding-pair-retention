@@ -1,0 +1,5 @@
+{
+    "data_name": "mteb/summeval",
+    "columns": "('text', 'summary')",
+    "prompt": "Given a news article, retrieve semantically similar summaries."
+}

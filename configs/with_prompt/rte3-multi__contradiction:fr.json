@@ -1,0 +1,6 @@
+{
+    "data_name": "/flash/project_462000883/datasets/rte3-multi__contradiction:fr",
+    "columns": "('premise', 'hypothesis')",
+    "labels": "('label','2')",
+    "prompt": "Retrieve contradicting passages"
+}

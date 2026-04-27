@@ -1,0 +1,4 @@
+{
+    "data_name": "mteb/ARCChallenge",
+    "columns": "('query', 'document')"
+}

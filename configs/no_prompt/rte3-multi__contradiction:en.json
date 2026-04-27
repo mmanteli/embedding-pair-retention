@@ -1,0 +1,5 @@
+{
+    "data_name": "/flash/project_462000883/datasets/rte3-multi__contradiction:en",
+    "columns": "('premise', 'hypothesis')",
+    "labels": "('label','2')"
+}

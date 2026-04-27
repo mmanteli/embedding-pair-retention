@@ -1,0 +1,12 @@
+{
+    "method":"ICA",
+    "dim": 20,
+    "data_name": "sentence-transformers/parallel-sentences-tatoeba",
+    "data_split": "en-fr",
+    "columns": "('english', 'non_english')",
+    "model_name": "intfloat/multilingual-e5-base",
+    "downsample": 5000, 
+    "embs": "embeddings/test/tatoeba:en-fr_multilingual-e5-base.pkl",
+    "save_fitted": "fitted_models/test/ICA_dim_20/tatoeba:en-fr_multilingual-e5-base.pkl",
+    "result_path":"results/test/ICA_dim_20/tatoeba:en-fr_multilingual-e5-base.pkl"
+}
