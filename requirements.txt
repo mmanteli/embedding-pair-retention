@@ -1,0 +1,23 @@
+accelerate==1.7.0
+datasets==3.6.0
+google-api-core==2.24.2
+google-auth==2.49.1
+google-genai==1.69.0
+jsonargparse==4.46.0
+jupyterlab_widgets==3.0.15
+kaleido==1.2.0
+matplotlib==3.9.4
+mteb==2.8.2
+numpy==1.26.4
+openai==1.79.0
+pandas==2.2.3
+safetensors==0.5.3
+sca @ https://github.com/glaserlab/sca.git
+scikit-image==0.25.2
+scikit-learn==1.6.1
+scipy==1.14.1
+seaborn==0.13.2
+sentence-transformers==5.2.3
+tiktoken==0.9.0
+torch==2.7.1+rocm6.2.4
+transformers==4.52.4
